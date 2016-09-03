@@ -40,11 +40,11 @@ As you build out your project, take some time to think about the complexity of c
 
 ## 7. Have regular learning sessions.
 
-You will find that as you build your project, certain people will start to accrue specific knowledge others won't have. Learning sessions are opportunities to disemminate that knowledge. Make an effort to have them on a regular basis.
+You will find that as you build your project, certain people will start to accrue specific knowledge others won't have. Learning sessions are opportunities to disseminate that knowledge. Make an effort to have them on a regular basis.
 
 ## 8. Avoid dependencies.
 
-By this, I don't necessarily mean code dependencies, though you should always consider the trade-off with using a third-paty dependency vs. building your own code to meet your need. I'm talking about dependencies with other teams or services you have little control over. If those dependencies are not reliable, don't wait for them to become reliable. Build an easy way to mock that dependency to prevent developers having to deal with it when it's not reliable.
+By this, I don't necessarily mean code dependencies, though you should always consider the trade-off with using a third-party dependency vs. building your own code to meet your need. I'm talking about dependencies with other teams or services you have little control over. If those dependencies are not reliable, don't wait for them to become reliable. Build an easy way to mock that dependency to prevent developers having to deal with it when it's not reliable.
 
 The last thing you want is for a new team to come in and not know they need to talk to another team to even start local development.
 
